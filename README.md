@@ -18,7 +18,7 @@ To get recommendations and knowledge graph for both input, run the following com
   
   Replace URL1 and URL2 with the Wikipedia URLs of the pages you want recommendations for, and replace LIMIT with the number of iterations you want the code to run for. The greater the value, the more recommendations will be generated, but the runtime will also be longer. Here is the example for input.
   
-  The example related to racism and George Floyd is as follows:
+  The example related to racism and Black Lives Matter is as follows:
   
     ``` python main.py 'https://en.wikipedia.org/wiki/Racism' 'https://en.wikipedia.org/wiki/Black_Lives_Matter' 30 ```
   
