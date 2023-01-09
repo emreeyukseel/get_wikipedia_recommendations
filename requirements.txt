@@ -1,0 +1,6 @@
+mwapi==0.6.1
+requests==2.27.1
+SPARQLWrapper==2.0.0
+networkx
+numpy
+matplotlib
