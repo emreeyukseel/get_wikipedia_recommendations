@@ -10,7 +10,7 @@ To install the required libraries, follow these steps:
 2) Open a terminal window and navigate to the root directory of the project (where the requirement.txt file is located).
 3) Run the following command:
 
-   ``` pip install -r requirements.txt" ```
+   ``` pip install -r requirements.txt ```
    
 # Getting Recommendation
 To get recommendations and knowledge graph for both input, run the following command:
